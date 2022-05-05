@@ -532,7 +532,7 @@ section.about_area .sec_title p span {
 
 .rodemap_img {}
 
-.rd_desktop {}
+.rd_desktop {width: max-content;}
 
 .rd_mobile {
     display: none;
