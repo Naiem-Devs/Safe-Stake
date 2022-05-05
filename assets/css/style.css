@@ -556,6 +556,8 @@ section.about_area .sec_title p span {
     text-align: center;
 }
 
+i.scheme_mobile {display: none;}
+
 
 /* -----------section End----------- */
 
@@ -576,6 +578,8 @@ section.about_area .sec_title p span {
 .Architecture_img {
     margin-bottom: 70px;
 }
+
+img.Architecture_mobile {display: none;}
 
 .white {}
 
