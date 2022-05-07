@@ -183,6 +183,8 @@ li {
     z-index: 99;
 }
 
+.header-area.sticky {position: sticky;top: 0;background: #ffffff;box-shadow: 0 0 10px rgb(0 0 0 / 10%);padding: 20px 0;}
+
 .menu-area nav ul li {
     list-style: none;
     display: inline-block;
@@ -322,7 +324,7 @@ max-width: 420px;}
 }
 
 .mobile-menu nav ul li a:hover {
-    color: #ff4900;
+    
 }
 
 .mobile-menu ul#pills-tab li {
@@ -391,7 +393,7 @@ section.hero_area {
 }
 
 section {
-    padding: 100px 0;
+    padding: 120px 0;
 }
 
 .container {
@@ -532,7 +534,7 @@ section.about_area .sec_title p span {
 
 .rodemap_img {}
 
-.rd_desktop {width: max-content;}
+.rd_desktop {}
 
 .rd_mobile {
     display: none;
@@ -576,7 +578,7 @@ i.scheme_mobile {display: none;}
 .sec_title {}
 
 .Architecture_img {
-    margin-bottom: 70px;
+    
 }
 
 img.Architecture_mobile {display: none;}
@@ -591,6 +593,8 @@ img.Architecture_mobile {display: none;}
     justify-content: space-between;
     margin-top: 20px;
 }
+
+#Roadmap {padding-top: 120px;}
 
 .ar-rodemap_blk {
     flex: 0 0 43%;

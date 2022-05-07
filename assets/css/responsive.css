@@ -204,6 +204,8 @@ i.scheme_mobile {display: block;text-align: center;}
     .header-area {
         padding: 20px 0;
     }
+
+.header-area.sticky {padding: 10px 0;}
     .hero_cont h1 {
         font-size: 28px;
     }
